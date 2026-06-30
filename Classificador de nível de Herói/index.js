@@ -1,6 +1,3 @@
-/*
-
-*/
 
 let heroi = [{nome: "rex", xp: 5000}]
 
